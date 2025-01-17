@@ -1,11 +1,11 @@
 
-To![Screenshot 2025-01-17 104528](https://github.com/user-attachments/assets/a3502097-6565-4eaf-92d0-b5ef1b87d47d)
- ![Screenshot 2025-01-17 104727](https://github.com/user-attachments/assets/3175e406-f852-4ba4-8ec4-3fc252462fb3)
+![Screenshot 2025-01-17 104528](https://github.com/user-attachments/assets/a3502097-6565-4eaf-92d0-b5ef1b87d47d)
+![Screenshot 2025-01-17 104727](https://github.com/user-attachments/assets/3175e406-f852-4ba4-8ec4-3fc252462fb3)
 ![Screenshot 2025-01-17 104852](https://github.com/user-attachments/assets/dce946a2-79cb-44bd-a334-d7bde19861f0)
 ![Screenshot 2025-01-17 105001](https://github.com/user-attachments/assets/258e9a7d-ca07-40b6-bbc6-b1b17e4ac81d)
 
  
- install the application, launch the program file StereonetClustering_web_Installer.exe
+To install the application, launch the program file StereonetClustering_web_Installer.exe
 
 If the installation does not start, it is advised to deactivate the Windows Security and try again to ensure a smooth installation process.
 
