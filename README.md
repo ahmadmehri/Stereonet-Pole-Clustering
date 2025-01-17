@@ -1,4 +1,6 @@
-To install the application, launch the program file StereonetClustering_web_Installer.exe
+
+To![Screenshot 2025-01-17 104528](https://github.com/user-attachments/assets/a3502097-6565-4eaf-92d0-b5ef1b87d47d)
+ install the application, launch the program file StereonetClustering_web_Installer.exe
 
 If the installation does not start, it is advised to deactivate the Windows Security and try again to ensure a smooth installation process.
 
