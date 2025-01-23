@@ -13,6 +13,10 @@ An internet connection is needed to download and install MATLAB Runtime R2023b.
 
 Using data in the 'Sample Data' folder to test the software after installation is recommended.
 
+Reference: [https://doi.org/10.1016/j.ijrmms.2021.104981](https://doi.org/10.1016/j.enggeo.2024.107462)
+A semi-automatic approach for joint orientation recognition using 3D trace network analysis
+
+
 This is free software only for research.
 Functions are available by request:
 https://www.linkedin.com/in/seyedahmad-mehrishal/
