@@ -8,6 +8,7 @@ How to use Discontinuities' plane poles clustering and exporting the principal j
 ![Screenshot 2025-01-17 105001](https://github.com/user-attachments/assets/258e9a7d-ca07-40b6-bbc6-b1b17e4ac81d)
 
  
+How to Install:
 To install the application, launch the program file StereonetClustering_web_Installer.exe
 
 If the installation does not start, it is advised to deactivate the Windows Security and try again to ensure a smooth installation process.
