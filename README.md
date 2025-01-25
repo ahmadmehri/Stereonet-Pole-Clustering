@@ -1,4 +1,4 @@
-Discontinuities' plane poles clustering and exporting the principal joint sets
+How to use Discontinuities' plane poles clustering and exporting the principal joint sets
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/N_dDU_3oOF4/0.jpg)](https://youtu.be/N_dDU_3oOF4?si=wSn0kiTKz5Yl6NYt)
 
